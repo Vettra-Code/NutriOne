@@ -1,0 +1,10 @@
+/* Estilos do header */
+.header {
+    // ... código existente ...
+}
+
+.logo h1 {
+    color: var(--primary-color);
+    font-weight: 700;
+    font-size: 1.8rem;
+} 
